@@ -1,6 +1,6 @@
 # Arduino OBD-II Vehicle Data Logger
 
-![Completed Arduino OBD-II data logger](images/completed-obd2-logger-1.png)
+![Completed Arduino OBD-II data logger](images/completed-obd2-logger-1.jpg)
 
 **Project period:** Spring 2024
 
