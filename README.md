@@ -166,7 +166,7 @@ At startup, the OLED displays a welcome screen and reports the connection status
 | VCC | ICSP 5V |
 | GND | ICSP GND |
 
-The microSD module uses the Arduino Nano's ICSP/SPI interface. Match the connections by their signal labels—SCK, MOSI, MISO, 5V, and GND—and use the ICSP orientation diagram in the [`project notebook`](docs/project-notebook.pdf) to confirm the header position. The triangle or circular orientation marker shown in the documentation should align with the Nano before power is connected.
+The microSD module uses the Arduino Nano's ICSP/SPI interface. Match the connections by their signal labels—SCK, MOSI, MISO, 5V, and GND—and use the ICSP orientation diagram in the [`project notebook`](docs/) to confirm the header position. The triangle or circular orientation marker shown in the documentation should align with the Nano before power is connected.
 
 ## Running the Project
 
