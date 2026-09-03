@@ -1,0 +1,9 @@
+Hadeed:
+
+Data should be formatted like so...
+
+(SPEED, RPM)
+
+but can sometimes alternate and look like this...
+
+(RPM, SPEED)

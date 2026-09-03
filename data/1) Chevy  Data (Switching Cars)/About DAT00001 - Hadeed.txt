@@ -1,0 +1,9 @@
+Hadeed:
+
+The DAT00001 data file is how the original program prints out the data.
+This was my first successful test of the datalogger. 
+It prints out, speed, rpm, engine temps(c), gps coordinates, and alot more.
+Kept the code for all of them, but commented out for the sake of the project. 
+
+My code just prints out (SPEED, RPM).
+It can sometimes alternate and output as (RPM, SPEED). 
