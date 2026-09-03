@@ -87,13 +87,13 @@ These changes preserved the core display functionality while making reliable CSV
 
 ## Testing
 
-![Data logger operating during vehicle testing](images/obd2-logger-live-test.png)
+![Data logger operating during vehicle testing](images/obd2-logger-live-test.jpg)
 
 The logger was tested with several vehicles to evaluate communication reliability and data quality. Successful data collection was completed with a Chevrolet Impala, Subaru Outback, and Lexus GS 300. Additional compatibility testing was performed with Toyota, Lexus, Chevrolet, Subaru, and Honda vehicles.
 
 Results varied between vehicles, showing the importance of testing embedded automotive systems across different manufacturers, model years, and implementations of the OBD-II standard.
 
-![Vehicle used for road testing](images/project-test-vehicle-1.png)
+![Vehicle used for road testing](images/car/project-test-vehicle-1.jpg)
 
 ## Results
 
