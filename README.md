@@ -109,7 +109,7 @@ The tests were observational rather than laboratory-controlled. Traffic, route l
 
 ### Example Data Visualization
 
-![Annotated speed and RPM graph](graphs/graph-1-annotated.jpg)
+![Annotated speed and RPM graph](graphs/graph-2-subaru/graph-2-annotated.jpg)
 
 Additional graphs and their associated data are available in the [`graphs`](graphs/) and [`data`](data/) directories.
 
