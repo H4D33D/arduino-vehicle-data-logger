@@ -6,7 +6,7 @@
 
 An embedded automotive data-logging system built with an Arduino Nano and a Freematics OBD-II UART adapter. The device reads live vehicle information, displays key parameters on an OLED screen, and records vehicle speed and engine RPM to a microSD card for later analysis.
 
-I developed this project to combine my interests in automotive technology, embedded systems, software development, and data analysis. I modified and optimized the Freematics reference code, resolved hardware and storage issues, restructured the logging logic, and validated the system through road testing across multiple vehicles.
+I developed this project to combine my interests in automotive technology, embedded systems, software development, telemetry, and data analysis. I modified and optimized the Freematics reference code, resolved hardware and storage issues, restructured the logging logic, and validated the system through road testing across multiple vehicles.
 
 This repository documents the complete project lifecycle: the [`src`](src/) directory contains the working logger code and required libraries, [`data`](data/) contains raw CSV recordings from real vehicle tests, [`graphs`](graphs/) contains annotated speed and RPM visualizations, [`images`](images/) shows the test vehicles and logger hardware during development and operation, and [`docs`](docs/) contains the detailed project notebook, wiring references, troubleshooting process, and conclusions.
 
