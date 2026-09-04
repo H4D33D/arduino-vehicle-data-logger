@@ -2,8 +2,6 @@
 
 ![Completed Arduino OBD-II data logger](images/completed-obd2-logger-1.jpg)
 
-**Project period:** Spring 2024
-
 An embedded automotive data-logging system built with an Arduino Nano and a Freematics OBD-II UART adapter. The device reads live vehicle information, displays key parameters on an OLED screen, and records vehicle speed and engine RPM to a microSD card for later analysis.
 
 I developed this project to combine my interests in automotive technology, embedded systems, software development, telemetry, and data analysis. I modified and optimized the Freematics reference code, resolved hardware and storage issues, restructured the logging logic, and validated the system through road testing across multiple vehicles.
