@@ -226,4 +226,4 @@ This project uses and modifies reference code and libraries provided by [Freemat
 ## Author
 
 **Hadeed Fawad**  
-Computer Science graduate interested in software engineering, embedded systems, automotive technology, data analysis, and technical problem-solving.
+Computer Science graduate interested in software engineering, embedded systems, automotive technology, data analysis, and technical problem-solving...
