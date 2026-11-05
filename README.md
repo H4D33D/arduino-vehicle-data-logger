@@ -225,8 +225,3 @@ This project demonstrates practical experience with:
 ## Acknowledgments
 
 This project uses and modifies reference code and libraries provided by [Freematics](https://freematics.com/). The implementation, configuration, optimization, testing, documentation, and data analysis in this repository reflect my project work. Any third-party source files retain their original ownership and licensing requirements.
-
-## Author
-
-**Hadeed Fawad**  
-Computer Science graduate interested in software engineering, embedded systems, automotive technology, data analysis, and technical problem-solving...
